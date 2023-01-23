@@ -83,7 +83,7 @@ print(y >= 10)
 
 # Less or Equal
 print("y less or Equal 10:")
-compersation = y <= 10
-print(compersation)
+comperaison = y <= 10
+print(comperaison)
 
 
